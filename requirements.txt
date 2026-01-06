@@ -1,0 +1,15 @@
+
+
+---Niteesh pandey 
+
+## 🔹 2️⃣ requirements.txt  
+ Project ko run karne ke liye libraries 
+
+```txt
+streamlit
+python-dotenv
+langchain
+langchain-google-genai
+langchain-community
+pypdf
+python-docx
