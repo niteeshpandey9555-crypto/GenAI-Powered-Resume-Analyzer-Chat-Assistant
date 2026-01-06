@@ -47,6 +47,7 @@ The project uses Large Language Models (Google Gemini) with LangChain to analyze
 ## 📂 Project Structure
 < br>
 then result return
+<br>
 {
   "Name": "John Doe",
   "Email": "john@example.com",
