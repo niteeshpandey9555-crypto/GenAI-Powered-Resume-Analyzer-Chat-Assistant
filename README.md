@@ -49,11 +49,11 @@ The project uses Large Language Models (Google Gemini) with LangChain to analyze
 then result return
 <br>
 {
-  "Name": "John Doe",
-  "Email": "john@example.com",
-  "Phone": "+91-XXXXXXXXXX",
+  "Name": "niteesh_pandey",
+  "Email": "niteeshpandey9555.com",
+  "Phone": "+91 9555218594",
   "Skills": ["Python", "Machine Learning", "NLP"],
-  "Education": ["B.Tech in Computer Science"],
-  "Experience": ["Software Engineer at ABC Corp"],
+  "Education": ["MBA  analytics & data science"],
+  "Experience": ["data  with ai "],
   "Projects": ["AI Resume Analyzer"]
 }
